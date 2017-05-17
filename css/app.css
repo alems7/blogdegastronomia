@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Pacifico');
+
+/*fondos*/
+
+body{
+  background: url(../img/fondo.jpg);
+  background-size:cover;
+}
+
+.fondo1{
+  background: rgba(255, 255, 255, 0.91);
+}
+
+.fondo2{
+  background: rgba(255, 255, 255, 0.55);
+}
+
+/*header*/
+
+.slogan{
+  margin-left: 44%;
+  margin-top: -13px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+}
+
+.titulo{
+  font-family: 'Pacifico', cursive;
+}
+
+.side-nav{
+  list-style-type:none;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 700;
+}
+
+.side-nav a{
+  color:rgb(6, 74, 117);
+}

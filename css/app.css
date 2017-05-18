@@ -38,6 +38,11 @@ body{
   background: rgba(255, 255, 255, 0.77);
 }
 
+.fondo4{
+  margin-top: 15px;
+  background: rgba(255, 255, 255, 0.77);
+}
+
 
 .contenedor{
   padding-left: 20px;
@@ -54,7 +59,7 @@ body{
 
 .slogan{
   margin-left: 137px;
-  margin-top: -13px;
+  margin-top: -10px;
 }
 
 .side-nav{
@@ -71,3 +76,17 @@ body{
   font-family: 'Open Sans Condensed', sans-serif;
   font-weight: 700;
  }
+
+
+ /*comentarios*/
+
+.comentario{
+  margin: 7px !important;;
+  border: 0.2px solid rgb(191, 191, 191);
+  border-radius: 3px;
+}
+
+.texto-comentario{
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
